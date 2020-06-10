@@ -1,0 +1,41 @@
+.fondo{
+    background-color: #004990;
+    opacity: .7;
+    padding:15px 15px 15px 15px;
+}
+#tit{
+    text-align: center;
+    height: 100%;
+}
+.logo-lcc{
+    width: 52%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+}
+
+.logo-unison{
+    width: 38%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+}
+
+.hdr{
+    width: 100%;
+    min-height: auto;
+    height: 12%;
+    background-color: #ffffff;
+    padding: 10px 50px 5px 50px;
+    float: top;
+}
+.carousel-inner{
+    height: 88%;
+}
+.carousel-item {
+    height: 100% !important;
+    width:  100% !important;
+}
+html,body,#carouselExampleIndicators{
+    height: 100%;
+} 
